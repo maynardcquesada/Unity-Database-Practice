@@ -1,0 +1,45 @@
+<linker>
+
+  <assembly fullname="MailKit">
+    <type fullname="MailKit" preserve="all" />
+  </assembly>
+
+  <assembly fullname="MimeKit">
+    <type fullname="MailKit" preserve="all" />
+  </assembly>
+
+  <assembly fullname="BouncyCastle.Crypto">
+    <type fullname="BouncyCastle.Crypto" preserve="all" />
+  </assembly>
+
+  <assembly fullname="Google.Apis.Auth">
+    <type fullname="Google.Apis.Auth" preserve="all" />
+  </assembly>
+
+  <assembly fullname="Google.Apis.Auth.PlatformServices">
+    <type fullname="Google.Apis.Auth.PlatformServices" preserve="all" />
+  </assembly>
+
+  <assembly fullname="Google.Apis.Core">
+    <type fullname="Google.Apis.Core" preserve="all" />
+  </assembly>
+
+  <assembly fullname="Google.Apis">
+    <type fullname="Google.Apis" preserve="all" />
+  </assembly>
+
+  <assembly fullname="Google.Apis.Gmail.v1">
+    <type fullname="Google.Apis.Gmail.v1" preserve="all" />
+  </assembly>
+
+  <assembly fullname="Newtonsoft.Json">
+    <type fullname="Newtonsoft.Json" preserve="all" />
+  </assembly>
+
+  <assembly fullname="credentials.Json">
+    <type fullname="credentials.Json" preserve="all" />
+  </assembly>
+
+
+
+</linker>
